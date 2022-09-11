@@ -1,5 +1,7 @@
 # vim_tutorial
 
+source : https://thoughtbot.com/blog/vim-splits-move-faster-and-more-naturally
+
  The basics
 
 Create a vertical split using :vsp and horizontal with :sp.
