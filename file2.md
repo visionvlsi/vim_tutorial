@@ -1,3 +1,11 @@
+SOURCE :  https://www.linux.com/training-tutorials/vim-tips-using-tabs/#:~:text=With%20Vim%207.0%2C%20users%20now,have%20access%20to%20this%20feature.
+
+SOURCE : https://stackoverflow.com/questions/53664/how-to-effectively-work-with-multiple-files-in-vim
+
+SOURCE : https://stackoverflow.com/questions/53664/how-to-effectively-work-with-multiple-files-in-vim#:~:text=You%20can%20switch%20between%20tabs,can%20easily%20switch%20between%20files.&text=Show%20activity%20on%20this%20post.,-Listing
+
+
+
 You can switch between tabs with :tabn and :tabp, With :tabe <filepath> you can add a new tab; and with a regular :q or :wq you close a tab. If you map :tabn and :tabp to your F7/F8 keys you can easily switch between files.
 
 
