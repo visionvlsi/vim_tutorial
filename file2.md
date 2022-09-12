@@ -1,3 +1,8 @@
+You can switch between tabs with :tabn and :tabp, With :tabe <filepath> you can add a new tab; and with a regular :q or :wq you close a tab. If you map :tabn and :tabp to your F7/F8 keys you can easily switch between files.
+
+
+
+
 Listing
 To see a list of current buffers, I use:
 
